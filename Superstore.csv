@@ -1,0 +1,201 @@
+Order ID,Order Date,Category,Region,Segment,Sales,Profit,Customer Name
+CA-1000,2025-02-27,Furniture,East,Consumer,930.71,533.19,Customer_0
+CA-1001,2025-05-25,Technology,South,Home Office,3288.82,376.8,Customer_1
+CA-1002,2025-04-17,Office Supplies,Central,Corporate,1017.27,705.8,Customer_2
+CA-1003,2025-09-04,Furniture,East,Consumer,3250.97,753.58,Customer_3
+CA-1004,2025-05-22,Office Supplies,South,Home Office,1775.67,231.67,Customer_4
+CA-1005,2025-10-12,Furniture,Central,Corporate,4691.33,318.68,Customer_5
+CA-1006,2025-03-26,Technology,West,Home Office,3390.45,141.27,Customer_6
+CA-1007,2025-08-30,Technology,East,Consumer,771.81,971.59,Customer_7
+CA-1008,2025-08-16,Technology,East,Consumer,431.04,717.44,Customer_8
+CA-1009,2025-01-29,Office Supplies,Central,Consumer,4287.28,919.3,Customer_9
+CA-1010,2025-05-23,Office Supplies,West,Home Office,4314.0,947.97,Customer_10
+CA-1011,2025-03-20,Furniture,East,Consumer,695.15,525.66,Customer_11
+CA-1012,2025-01-16,Furniture,Central,Home Office,907.47,241.04,Customer_12
+CA-1013,2025-01-11,Office Supplies,West,Corporate,3703.44,893.98,Customer_13
+CA-1014,2025-11-27,Office Supplies,Central,Home Office,3382.04,941.9,Customer_14
+CA-1015,2025-05-09,Office Supplies,West,Corporate,1012.51,225.29,Customer_15
+CA-1016,2025-12-16,Office Supplies,West,Consumer,1303.35,156.94,Customer_16
+CA-1017,2025-09-01,Office Supplies,East,Corporate,2811.9,282.33,Customer_17
+CA-1018,2025-09-27,Technology,West,Home Office,2996.51,123.42,Customer_18
+CA-1019,2025-11-24,Technology,West,Consumer,1290.53,714.35,Customer_19
+CA-1020,2025-09-20,Furniture,West,Corporate,4965.8,390.73,Customer_20
+CA-1021,2025-04-01,Office Supplies,Central,Consumer,3492.04,688.46,Customer_21
+CA-1022,2025-10-11,Office Supplies,West,Home Office,3757.92,709.5,Customer_22
+CA-1023,2025-11-12,Office Supplies,West,Consumer,2356.05,496.37,Customer_23
+CA-1024,2025-05-21,Technology,East,Corporate,1829.85,179.42,Customer_24
+CA-1025,2025-03-16,Office Supplies,Central,Home Office,2019.92,93.92,Customer_25
+CA-1026,2025-05-30,Office Supplies,South,Corporate,1573.36,898.35,Customer_26
+CA-1027,2025-01-15,Technology,Central,Corporate,3717.2,54.69,Customer_27
+CA-1028,2025-07-29,Furniture,West,Corporate,984.58,173.59,Customer_28
+CA-1029,2025-08-03,Office Supplies,East,Consumer,4037.16,465.04,Customer_29
+CA-1030,2025-12-30,Technology,East,Corporate,4869.69,62.16,Customer_30
+CA-1031,2025-06-30,Furniture,West,Corporate,3733.43,774.06,Customer_31
+CA-1032,2025-02-13,Technology,West,Consumer,4609.29,10.7,Customer_32
+CA-1033,2025-04-11,Furniture,South,Consumer,730.28,223.65,Customer_33
+CA-1034,2025-04-28,Technology,Central,Consumer,2137.0,915.89,Customer_34
+CA-1035,2025-08-05,Technology,Central,Consumer,2881.63,169.87,Customer_35
+CA-1036,2025-11-14,Technology,South,Consumer,4588.31,365.31,Customer_36
+CA-1037,2025-09-13,Furniture,Central,Home Office,492.7,588.2,Customer_37
+CA-1038,2025-04-16,Furniture,West,Consumer,2638.89,989.56,Customer_38
+CA-1039,2025-01-13,Office Supplies,East,Home Office,4064.47,723.03,Customer_39
+CA-1040,2025-10-11,Technology,East,Consumer,241.87,468.51,Customer_40
+CA-1041,2025-12-28,Furniture,South,Corporate,4651.42,347.38,Customer_41
+CA-1042,2025-05-02,Furniture,West,Consumer,1477.75,603.41,Customer_42
+CA-1043,2025-05-16,Office Supplies,Central,Corporate,884.45,782.87,Customer_43
+CA-1044,2025-10-06,Technology,South,Home Office,4126.21,621.82,Customer_44
+CA-1045,2025-08-30,Technology,East,Home Office,4984.58,367.73,Customer_45
+CA-1046,2025-04-30,Furniture,East,Corporate,3813.06,551.94,Customer_46
+CA-1047,2025-08-27,Technology,East,Consumer,1046.56,781.56,Customer_47
+CA-1048,2025-01-04,Furniture,South,Corporate,1419.47,235.84,Customer_48
+CA-1049,2025-08-24,Technology,South,Home Office,351.14,244.52,Customer_49
+CA-1050,2025-10-20,Technology,Central,Corporate,1936.62,122.88,Customer_50
+CA-1051,2025-07-17,Office Supplies,West,Corporate,1751.85,206.99,Customer_51
+CA-1052,2025-05-01,Furniture,South,Corporate,3137.99,344.59,Customer_52
+CA-1053,2025-09-18,Office Supplies,South,Home Office,1786.28,614.22,Customer_53
+CA-1054,2025-09-16,Office Supplies,Central,Home Office,1158.65,237.98,Customer_54
+CA-1055,2025-11-19,Furniture,Central,Home Office,3675.6,50.62,Customer_55
+CA-1056,2025-12-06,Technology,South,Consumer,116.02,845.05,Customer_56
+CA-1057,2025-09-10,Furniture,West,Consumer,860.19,807.01,Customer_57
+CA-1058,2025-06-16,Office Supplies,East,Home Office,1065.32,103.33,Customer_58
+CA-1059,2025-12-01,Office Supplies,West,Corporate,4253.45,136.61,Customer_59
+CA-1060,2025-11-13,Technology,East,Home Office,1834.57,414.77,Customer_60
+CA-1061,2025-03-06,Office Supplies,South,Home Office,2432.98,221.44,Customer_61
+CA-1062,2025-01-04,Technology,East,Consumer,762.84,176.88,Customer_62
+CA-1063,2025-07-29,Technology,South,Consumer,4096.56,588.59,Customer_63
+CA-1064,2025-09-11,Technology,South,Consumer,2259.82,494.08,Customer_64
+CA-1065,2025-04-23,Furniture,Central,Corporate,3666.72,835.62,Customer_65
+CA-1066,2025-02-10,Technology,East,Corporate,4665.98,32.81,Customer_66
+CA-1067,2025-09-05,Office Supplies,Central,Corporate,4176.92,442.08,Customer_67
+CA-1068,2025-08-18,Furniture,Central,Consumer,314.99,512.95,Customer_68
+CA-1069,2025-11-07,Technology,East,Corporate,617.69,998.08,Customer_69
+CA-1070,2025-04-25,Furniture,East,Home Office,1359.2,552.32,Customer_70
+CA-1071,2025-11-29,Office Supplies,South,Consumer,4346.39,942.39,Customer_71
+CA-1072,2025-12-18,Furniture,South,Corporate,1097.78,213.12,Customer_72
+CA-1073,2025-01-08,Furniture,West,Corporate,698.5,605.42,Customer_73
+CA-1074,2025-05-22,Technology,Central,Consumer,1306.5,922.97,Customer_74
+CA-1075,2025-05-15,Furniture,East,Consumer,4638.79,956.22,Customer_75
+CA-1076,2025-08-02,Office Supplies,West,Home Office,581.83,776.71,Customer_76
+CA-1077,2025-03-02,Furniture,South,Home Office,4133.76,797.37,Customer_77
+CA-1078,2025-06-22,Office Supplies,East,Corporate,2038.44,119.98,Customer_78
+CA-1079,2025-04-16,Office Supplies,East,Consumer,4951.11,805.26,Customer_79
+CA-1080,2025-02-10,Furniture,South,Corporate,3922.66,221.27,Customer_80
+CA-1081,2025-05-30,Technology,South,Home Office,3977.65,137.17,Customer_81
+CA-1082,2025-11-28,Technology,West,Consumer,1449.89,270.86,Customer_82
+CA-1083,2025-02-01,Technology,West,Corporate,901.45,334.14,Customer_83
+CA-1084,2025-05-09,Office Supplies,Central,Corporate,3893.88,698.35,Customer_84
+CA-1085,2025-05-14,Office Supplies,Central,Corporate,1339.51,74.02,Customer_85
+CA-1086,2025-03-23,Furniture,Central,Consumer,2781.98,226.32,Customer_86
+CA-1087,2025-11-20,Office Supplies,West,Home Office,2857.56,575.65,Customer_87
+CA-1088,2025-01-20,Furniture,Central,Consumer,3237.51,478.93,Customer_88
+CA-1089,2025-06-26,Furniture,South,Home Office,3339.66,216.07,Customer_89
+CA-1090,2025-11-16,Technology,West,Consumer,4823.42,20.67,Customer_90
+CA-1091,2025-09-27,Office Supplies,South,Corporate,3797.2,258.29,Customer_91
+CA-1092,2025-04-09,Office Supplies,East,Corporate,1173.04,650.88,Customer_92
+CA-1093,2025-01-28,Furniture,South,Home Office,148.51,556.72,Customer_93
+CA-1094,2025-10-23,Furniture,South,Consumer,271.97,335.24,Customer_94
+CA-1095,2025-01-16,Office Supplies,East,Corporate,2256.59,527.19,Customer_95
+CA-1096,2025-12-20,Technology,South,Consumer,1585.22,423.32,Customer_96
+CA-1097,2025-03-28,Office Supplies,Central,Consumer,4975.58,738.56,Customer_97
+CA-1098,2025-10-26,Office Supplies,East,Corporate,1735.53,438.63,Customer_98
+CA-1099,2025-06-30,Technology,Central,Corporate,3829.82,464.1,Customer_99
+CA-1100,2025-10-08,Office Supplies,West,Corporate,1778.65,927.65,Customer_100
+CA-1101,2025-04-17,Technology,East,Corporate,1428.29,716.77,Customer_101
+CA-1102,2025-10-03,Technology,Central,Corporate,3148.11,686.21,Customer_102
+CA-1103,2025-02-10,Furniture,Central,Corporate,2922.51,251.39,Customer_103
+CA-1104,2025-02-11,Technology,West,Consumer,4597.19,732.75,Customer_104
+CA-1105,2025-03-09,Technology,Central,Corporate,2295.08,899.59,Customer_105
+CA-1106,2025-08-27,Office Supplies,East,Consumer,4968.63,123.72,Customer_106
+CA-1107,2025-01-28,Technology,East,Consumer,1758.74,340.09,Customer_107
+CA-1108,2025-09-04,Office Supplies,West,Corporate,4968.47,134.75,Customer_108
+CA-1109,2025-07-14,Technology,West,Consumer,1228.56,266.98,Customer_109
+CA-1110,2025-01-10,Office Supplies,Central,Consumer,4298.34,420.3,Customer_110
+CA-1111,2025-07-15,Furniture,Central,Consumer,4934.11,526.45,Customer_111
+CA-1112,2025-10-20,Technology,South,Home Office,4903.47,603.56,Customer_112
+CA-1113,2025-05-10,Office Supplies,East,Corporate,2609.37,200.32,Customer_113
+CA-1114,2025-04-04,Furniture,West,Consumer,2262.8,12.88,Customer_114
+CA-1115,2025-04-03,Office Supplies,South,Consumer,2430.61,411.63,Customer_115
+CA-1116,2025-07-29,Office Supplies,Central,Consumer,4997.47,799.52,Customer_116
+CA-1117,2025-11-05,Furniture,Central,Home Office,1262.69,685.09,Customer_117
+CA-1118,2025-05-04,Office Supplies,West,Corporate,166.72,87.19,Customer_118
+CA-1119,2025-07-05,Office Supplies,East,Corporate,2872.68,216.13,Customer_119
+CA-1120,2025-02-23,Furniture,South,Home Office,4143.06,874.55,Customer_120
+CA-1121,2025-02-25,Technology,South,Home Office,1402.63,804.94,Customer_121
+CA-1122,2025-06-12,Furniture,East,Corporate,320.3,437.42,Customer_122
+CA-1123,2025-04-22,Technology,South,Consumer,2094.63,363.14,Customer_123
+CA-1124,2025-12-22,Technology,East,Home Office,4505.31,282.86,Customer_124
+CA-1125,2025-05-04,Technology,West,Home Office,3353.25,115.15,Customer_125
+CA-1126,2025-04-21,Office Supplies,Central,Consumer,606.19,297.36,Customer_126
+CA-1127,2025-02-27,Furniture,East,Home Office,4752.41,47.19,Customer_127
+CA-1128,2025-08-21,Furniture,East,Home Office,655.42,420.4,Customer_128
+CA-1129,2025-09-28,Technology,South,Home Office,4774.23,465.72,Customer_129
+CA-1130,2025-12-05,Office Supplies,East,Corporate,131.39,572.84,Customer_130
+CA-1131,2025-03-07,Furniture,West,Home Office,3179.78,183.15,Customer_131
+CA-1132,2025-05-22,Furniture,South,Home Office,1925.09,521.39,Customer_132
+CA-1133,2025-07-05,Technology,Central,Consumer,1477.19,754.82,Customer_133
+CA-1134,2025-02-10,Furniture,South,Home Office,3519.76,195.71,Customer_134
+CA-1135,2025-06-22,Technology,West,Home Office,222.17,911.3,Customer_135
+CA-1136,2025-08-05,Technology,Central,Consumer,542.16,66.09,Customer_136
+CA-1137,2025-04-04,Furniture,South,Consumer,1734.49,755.27,Customer_137
+CA-1138,2025-01-31,Furniture,West,Consumer,4854.91,283.56,Customer_138
+CA-1139,2025-01-20,Technology,South,Consumer,574.81,867.31,Customer_139
+CA-1140,2025-11-19,Furniture,Central,Home Office,3857.49,417.5,Customer_140
+CA-1141,2025-03-06,Furniture,East,Corporate,4571.21,275.81,Customer_141
+CA-1142,2025-05-23,Office Supplies,Central,Consumer,4419.43,734.43,Customer_142
+CA-1143,2025-12-01,Furniture,South,Corporate,3367.79,268.36,Customer_143
+CA-1144,2025-05-04,Technology,Central,Corporate,1111.76,331.15,Customer_144
+CA-1145,2025-01-27,Furniture,West,Corporate,1439.23,876.44,Customer_145
+CA-1146,2025-07-03,Technology,South,Home Office,2929.75,162.12,Customer_146
+CA-1147,2025-08-12,Technology,East,Consumer,3462.36,208.06,Customer_147
+CA-1148,2025-01-28,Technology,West,Home Office,2214.47,178.36,Customer_148
+CA-1149,2025-12-27,Technology,East,Corporate,3780.74,865.76,Customer_149
+CA-1150,2025-03-25,Furniture,East,Consumer,1866.57,239.08,Customer_150
+CA-1151,2025-06-05,Furniture,Central,Home Office,4568.53,368.58,Customer_151
+CA-1152,2025-04-08,Technology,South,Corporate,437.44,51.21,Customer_152
+CA-1153,2025-04-08,Technology,West,Home Office,4748.64,952.27,Customer_153
+CA-1154,2025-08-14,Office Supplies,Central,Corporate,4074.77,212.73,Customer_154
+CA-1155,2025-03-24,Office Supplies,South,Consumer,4203.03,758.96,Customer_155
+CA-1156,2025-07-03,Furniture,South,Consumer,350.23,799.22,Customer_156
+CA-1157,2025-02-27,Office Supplies,West,Consumer,932.37,61.3,Customer_157
+CA-1158,2025-02-01,Technology,Central,Home Office,4634.47,196.33,Customer_158
+CA-1159,2025-06-06,Technology,East,Corporate,159.3,553.03,Customer_159
+CA-1160,2025-06-27,Furniture,East,Corporate,1401.56,611.58,Customer_160
+CA-1161,2025-02-17,Office Supplies,West,Home Office,1642.17,868.38,Customer_161
+CA-1162,2025-06-05,Furniture,West,Corporate,2213.45,580.1,Customer_162
+CA-1163,2025-03-02,Furniture,Central,Consumer,2507.88,702.92,Customer_163
+CA-1164,2025-03-12,Furniture,West,Home Office,3284.41,959.45,Customer_164
+CA-1165,2025-06-30,Technology,Central,Corporate,2367.57,58.01,Customer_165
+CA-1166,2025-02-21,Office Supplies,South,Home Office,2928.05,972.82,Customer_166
+CA-1167,2025-04-19,Office Supplies,West,Home Office,3600.26,212.73,Customer_167
+CA-1168,2025-12-03,Furniture,Central,Corporate,3127.12,50.71,Customer_168
+CA-1169,2025-04-29,Furniture,South,Corporate,2196.15,602.6,Customer_169
+CA-1170,2025-05-12,Furniture,West,Consumer,2831.29,693.19,Customer_170
+CA-1171,2025-10-06,Furniture,Central,Home Office,1028.65,143.77,Customer_171
+CA-1172,2025-04-27,Furniture,Central,Corporate,533.46,397.23,Customer_172
+CA-1173,2025-11-24,Furniture,East,Consumer,4041.23,45.54,Customer_173
+CA-1174,2025-04-30,Furniture,East,Consumer,3256.39,301.31,Customer_174
+CA-1175,2025-05-24,Furniture,East,Home Office,3573.98,471.51,Customer_175
+CA-1176,2025-09-13,Office Supplies,Central,Home Office,998.63,342.01,Customer_176
+CA-1177,2025-09-24,Technology,East,Home Office,2933.05,775.8,Customer_177
+CA-1178,2025-12-17,Furniture,Central,Consumer,387.87,184.7,Customer_178
+CA-1179,2025-09-25,Office Supplies,West,Corporate,1890.63,905.1,Customer_179
+CA-1180,2025-12-01,Furniture,Central,Consumer,4863.65,474.31,Customer_180
+CA-1181,2025-12-15,Furniture,East,Corporate,650.15,853.92,Customer_181
+CA-1182,2025-01-02,Technology,Central,Home Office,3462.15,853.52,Customer_182
+CA-1183,2025-12-19,Furniture,Central,Home Office,932.63,89.29,Customer_183
+CA-1184,2025-09-10,Furniture,Central,Corporate,2728.18,772.28,Customer_184
+CA-1185,2025-07-06,Furniture,West,Consumer,4611.37,37.33,Customer_185
+CA-1186,2025-07-31,Technology,Central,Home Office,4389.58,270.79,Customer_186
+CA-1187,2025-03-24,Office Supplies,Central,Home Office,2744.38,522.9,Customer_187
+CA-1188,2025-10-24,Furniture,South,Home Office,3932.2,462.45,Customer_188
+CA-1189,2025-03-22,Furniture,West,Home Office,3097.88,332.78,Customer_189
+CA-1190,2025-12-28,Office Supplies,East,Consumer,4907.78,46.64,Customer_190
+CA-1191,2025-09-12,Furniture,Central,Corporate,4212.11,67.09,Customer_191
+CA-1192,2025-07-29,Furniture,Central,Corporate,4104.39,420.96,Customer_192
+CA-1193,2025-05-17,Technology,South,Corporate,3622.79,229.07,Customer_193
+CA-1194,2025-05-07,Technology,Central,Corporate,2814.85,37.0,Customer_194
+CA-1195,2025-03-06,Office Supplies,South,Home Office,139.87,432.79,Customer_195
+CA-1196,2025-03-30,Office Supplies,Central,Home Office,2319.87,447.03,Customer_196
+CA-1197,2025-11-17,Office Supplies,Central,Home Office,779.26,971.92,Customer_197
+CA-1198,2025-05-14,Office Supplies,South,Home Office,1061.49,926.84,Customer_198
+CA-1199,2025-08-27,Furniture,Central,Home Office,4625.2,143.11,Customer_199
